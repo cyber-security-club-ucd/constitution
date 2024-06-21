@@ -159,4 +159,5 @@
    6. Nandini Kodali
 
 ### History of Changes
-- 2024-05-27 - Draft Finalized 
+- 2024-05-27 - Draft Finalized
+- 2024-05-29 - Constitution adopted by the members 
