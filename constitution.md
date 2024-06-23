@@ -1,4 +1,4 @@
-# Cyber Security Club at UC Davis Constitution (Not Currently Adopted)
+# Cyber Security Club at UC Davis Constitution
 
 ## Name
 1. The name of this organization shall be Cyber Security Club at UC Davis.
