@@ -151,7 +151,7 @@
 2. Vice President: Akhil Guntur
 3. Treasurer: Lance Barnes
 4. General Officers, in no particular order:
-   1. Zhenkai Wang
+   1. Zhenkai Weng
    2. Jason Huang
    3. Justine Ellery
    4. Nate Buttke
