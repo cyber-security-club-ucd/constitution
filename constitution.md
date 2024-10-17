@@ -2,6 +2,8 @@
 
 ## Name
 1. The name of this organization shall be Cyber Security Club at UC Davis.
+2. The official acronym of the Cyber Security Club at UC Davis shall be "CSC".
+3. This club is also referred to as "Cybersecurity Club at UC Davis", "Davis Cybersec", etc. 
 
 ## Purpose
 1. The purpose of Cyber Security Club at UC Davis is to be a Registered Student Organization at the University of California, Davis that serves as a place for future cybersecurity professionals and cybersecurity enthusiasts to spend time, learn, and grow.
