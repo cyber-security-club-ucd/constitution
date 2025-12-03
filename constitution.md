@@ -120,4 +120,5 @@
 ### History of Changes
 - 2024-05-27 - Draft Finalized
 - 2024-05-29 - Constitution adopted by the members 
-- 2025-10-21 - Proposed Amendments
+- 2025-10-21 - Proposed Amendments #1
+- 2025-12-01 - Amendments #1 adopted
